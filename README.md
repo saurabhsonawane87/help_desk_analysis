@@ -29,7 +29,7 @@ help-desk-analysis/
 ├── data/                 # Raw and cleaned datasets
 ├── python/              # Python scripts for cleaning and EDA
 ├── sql/                  # SQL analysis queries
-├── dashboard/            # Power BI (.pbix) file and dashboard exports
+├── dashboard/            # Power BI dashboard files (.pbix, PDF, PNG)
 ├── storytelling/         # Full project storytelling document (PDF)
 └── README.md
 ```
