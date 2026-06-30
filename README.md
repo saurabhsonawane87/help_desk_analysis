@@ -27,7 +27,7 @@ This project analyzes a ServiceNow Help Desk Incident dataset to understand tick
 ```
 help-desk-analysis/
 ├── data/                 # Raw and cleaned datasets
-├── scripts/              # Python scripts for cleaning and EDA
+├── python/              # Python scripts for cleaning and EDA
 ├── sql/                  # SQL analysis queries
 ├── dashboard/            # Power BI (.pbix) file and dashboard exports
 ├── storytelling/         # Full project storytelling document (PDF)
